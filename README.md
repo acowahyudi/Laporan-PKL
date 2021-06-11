@@ -1,7 +1,7 @@
 # Laporan-PKL
 Proyek Hasil Praktik Kerja Lapangan
----
-[![Laporan PKL]]
+--
+[![Contributors][contributors-shield]][contributors-url]
 - BAB I
 - BAB II
 - BAB III
