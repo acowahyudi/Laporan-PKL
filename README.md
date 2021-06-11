@@ -1,5 +1,5 @@
 # Daftar-Biodata-Mahasiswa
-atau
+--
 Daftar-Biodata-Mahasiswa
 ===
 - BAB I
